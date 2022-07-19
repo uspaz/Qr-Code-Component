@@ -9,5 +9,17 @@
     "watch-css": "nodemon -e scss -x \"npm run build-css\""
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uspaz/Qr-Code-Component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uspaz/Qr-Code-Component/issues"
+  },
+  "homepage": "https://github.com/uspaz/Qr-Code-Component#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.19"
+  }
 }

@@ -21,7 +21,7 @@ body {
 
 .card {
   width: 280px;
-  height: 470px;
+  height: 450px;
   font-family: 'Outfit', sans-serif;
   background-color: white;
   padding: 20px;
@@ -30,10 +30,11 @@ body {
   .card img {
     width: 100%;
     border-radius: 10px; }
-  .card h3 {
+  .card h1 {
     padding: 0px 5px;
-    font-size: 1.4rem; }
+    font-size: 1.4rem;
+    color: #1f3251; }
   .card p {
-    font-size: 15px;
+    font-size: .94rem;
     padding: 0px 10px;
     color: #7b879d; }
